@@ -37,14 +37,14 @@
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="CSS 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<br/><br/><br/>
+<!-- <br/><br/><br/>
 
 <h2 align="center">GitHub Analytics</h2>
 <p >
   <img width="40%" alt="geeekdude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh&show_icons=true&hide_border=true&theme=algolia"/>
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyansh&layout=compact&langs_count=8&theme=algolia"/>
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p>
+</p>-->
 
 <!-- <p align = "center">
  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=priyansh&theme=redical">
