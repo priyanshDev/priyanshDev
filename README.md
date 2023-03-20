@@ -25,7 +25,7 @@
 
 <br />
 
-[![Linkedin: Priyansh](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/priyansh)](https://www.linkedin.com/in/priyansh-a048a2227/)
+[![Linkedin: Priyansh](https://img.shields.io/badge/-priyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/priyansh)](https://www.linkedin.com/in/priyansh-a048a2227/)
 [![GitHub Priyansh](https://img.shields.io/github/followers/priyansh?label=follow&style=social)](https://github.com/priyanshDev)
 ![](https://komarev.com/ghpvc/?username=priyanshdev&color=blueviolet)
 
