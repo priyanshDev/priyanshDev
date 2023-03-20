@@ -25,8 +25,8 @@
 
 <br />
 
-[![Linkedin: Prateek Kumar](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/geekdude)]("Linkdin id here")
-[![GitHub Prateek Kumar](https://img.shields.io/github/followers/geeekdude?label=follow&style=social)](https://github.com/geeekdude)
+[![Linkedin: Priyansh](https://img.shields.io/badge/-geeekdude-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/priyansh)](https://www.linkedin.com/in/priyansh-a048a2227/)
+[![GitHub Priyansh](https://img.shields.io/github/followers/priyansh?label=follow&style=social)](https://github.com/priyanshDev)
 ![](https://komarev.com/ghpvc/?username=priyanshdev&color=blueviolet)
 
 ### Languages and Tools:
@@ -46,7 +46,8 @@
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=priyansh&theme=redical">
-</p> 
+</p>  -->
+
 
